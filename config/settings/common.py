@@ -50,7 +50,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'config.urls'
 
 DATABASES = {
-    'default': env.db('DATABASE_URL', default='sqlite:////jestian/jestian-sqlite.db'),
+    'default': env.db('DATABASE_URL', default='sqlite:////jestian/jestian/jestian-sqlite.db'),
 }
 DATABASES['default']['ATOMIC_REQUESTS'] = True
 

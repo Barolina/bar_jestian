@@ -1,0 +1,6 @@
+# local development dependencies go here
+-r base.txt
+
+django-debug-toolbar
+django-autofixture
+django-webtest

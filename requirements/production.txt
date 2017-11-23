@@ -1,0 +1,2 @@
+# Production development dependencies go here
+-r base.txt

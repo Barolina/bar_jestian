@@ -31,8 +31,7 @@ INSTALLED_APPS = (
 
 
     'jestian.users.apps.UsersConfig',
-
-
+    'jestian.figures'
 
 )
 

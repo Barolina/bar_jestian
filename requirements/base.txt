@@ -6,7 +6,7 @@ psycopg2
 django-environ
 
 # Images
-Pillow==4.0.0
+Pillow==9.0.1
 django-imagekit
 
 # Models
